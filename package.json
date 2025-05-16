@@ -1,0 +1,16 @@
+{
+  "name": "ci",
+  "version": "1.0.0",
+  "main": "calc.js",
+  "scripts": {
+    "start": "node calc.js",
+    "test": "jest --coverage"
+  },
+  "keywords": ["simulazione ci/cd"],
+  "author": "Diego Verrina",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
