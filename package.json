@@ -4,7 +4,7 @@
   "main": "calc.js",
   "scripts": {
     "start": "node calc.js",
-    "test": "jest --coverage"
+    "test": "jest --coverage",
     "build": "echo 'No build needed'"
   },
   "keywords": ["simulazione ci/cd"],
